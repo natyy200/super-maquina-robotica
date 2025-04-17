@@ -13,6 +13,10 @@
 - 4 LEDs 5mm
 - 4 resistores 1 kΩ
 
+## Software:
+
+- Arduino IDE
+
 ## Montagem do circuito:
 
 ![](img/circuito.jpg)
